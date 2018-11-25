@@ -1,5 +1,6 @@
 //include library 
 #include<iostream>
+#include<maths>
 
 using namespace std;
 
